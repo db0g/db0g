@@ -41,8 +41,8 @@
 | ----------------- | ------------------ | ----------------- | ------------------------- | ------------------ | ------------ |
 | *i know use this* | *my wife use this* | *i know use this* | *i kwow use this*         | word               | slack        |
 | *but i don't use* |                    | *but i don't use* | *but i don't use*         | excel              | discord      |
-|                   |      =)    =)      |                   |                           | outlook            | sublime text |
-|                   |         =)         |                   |                           | skype              | typora       |
+|                   |                    |                   |                           | outlook            | sublime text |
+|                   |                    |                   |                           | skype              | typora       |
 |                   |                    |                   |                           | visual studio code | notion       |
 |                   |                    |                   |  programmed obsolescenc   |                    |              |
 |     Ethics        |                    |      Ethics       |  price                    |                    |              |
