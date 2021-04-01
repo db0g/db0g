@@ -10,7 +10,7 @@
 
 
 
-💪 <u>Compétences</u>:****
+💪 <u>Compétences</u>:
 
 | Languages:FrontEnd | Languages:BackEnd | Framework - Libs - CMS | Databases  | Environment |
 | :----------------: | :---------------: | :--------------------: | :--------: | :---------: |
