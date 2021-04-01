@@ -1,6 +1,6 @@
 
 
-**DAMIEN BOITIER**, 35ans, Paris, 
+**DAMIEN BOITIER**,  web developer junior, 35ans, Paris,
 
 ===========================================================================================
 
