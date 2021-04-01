@@ -42,7 +42,6 @@
 |                   |                    |                   |                           | outlook            | sublime text |
 | <Ethics>          |                    | <Ethics>          | <programmed obsolescence> | skype              | typora       |
 |                   |                    |                   | <price>                   | visual studio code | notion       |
-|                   |                    |                   |                           |                    |              |
 
 
 
