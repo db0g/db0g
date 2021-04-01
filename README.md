@@ -18,8 +18,8 @@
 | Languages:FrontEnd | Languages:BackEnd | Framework - Libs - CMS | Databases  | Environment |
 | :----------------: | :---------------: | :--------------------: | :--------: | :---------: |
 |        HTML        |      Python       |         Django         | PostgreSQL |   Windows   |
-|        CSS         |                   |         Flask          |            |     OSX     |
-|     JavaScript     |                   |       Bootstrap        |            |   Ubuntu    |
+|        CSS         |                   |         Flask          |            |   Ubuntu    |
+|     JavaScript     |                   |       Bootstrap        |            |     OSx     |
 |       Jquery       |                   |       WordPress        |            |             |
 
 
