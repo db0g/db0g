@@ -1,6 +1,6 @@
 
 
-# ![](C:\Users\Damie\Desktop\IMG_7043.JPG) **DAMIEN BOITIER**
+**DAMIEN BOITIER**
 
 👋 <u>Description</u>:
 
@@ -39,9 +39,11 @@
 | ----------------- | ------------------ | ----------------- | ------------------------- | ------------------ | ------------ |
 | *i know use this* | *my wife use this* | *i know use this* | *i kwow use this*         | word               | slack        |
 | *but i don't use* |                    | *but i don't use* | *but i don't use*         | excel              | discord      |
-|                   |                    |                   |                           | outlook            | sublime text |
-| <Ethics>          |                    | <Ethics>          | <programmed obsolescence> | skype              | typora       |
-|                   |                    |                   | <price>                   | visual studio code | notion       |
+|                   |      =)    =)      |                   |                           | outlook            | sublime text |
+|                   |         =)         |                   |                           | skype              | typora       |
+|                   |                    |                   |                           | visual studio code | notion       |
+|                   |                    |                   |  programmed obsolescenc   |                    |              |
+|     Ethics        |                    |      Ethics       |  price                    |                    |              |
 
 
 
