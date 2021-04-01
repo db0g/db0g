@@ -1,6 +1,6 @@
 
 
-**DAMIEN BOITIER**,  Auto-Entrepreneur(web developer fullstack junior), 35ans, Paris, 
+**DAMIEN BOITIER**,  Auto-Entrepreneur(developer fullstack junior), 35ans, Paris, 
 
 ===========================================================================================
 
