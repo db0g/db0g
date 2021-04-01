@@ -23,7 +23,7 @@
 
 
 
-🌱 u>J'apprend actuellement:</u> 
+🌱 <u>J'apprend actuellement:</u> 
 
 | Laguages:FrontEnd | Languages:BackEnd | Framework - Libs - CMS | Databases |
 | :---------------: | :---------------: | :--------------------: | :-------: |
