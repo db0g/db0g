@@ -1,6 +1,6 @@
 
 
-**DAMIEN BOITIER**,  web developer junior, 35ans, Paris,
+**DAMIEN BOITIER**,  Auto-Entrepreneur(web developer fullstack junior), 35ans, Paris, 
 
 ===========================================================================================
 
@@ -47,7 +47,6 @@
 |                   |                    |                   |                            | visual studio code | notion       |
 |                   |                    |                   |*Programmed obsolescenced*  |                    |              |
 |     *Ethics*      |                    |     *Ethics*      |        *Price*             |                    |              |
-
 
 
 
