@@ -37,15 +37,15 @@
 
 💿 <u>Autres:</u>
 
-| Google            | Amazon             | Facebook          | Apple                     | Microsoft          | Others       |
-| ----------------- | ------------------ | ----------------- | ------------------------- | ------------------ | ------------ |
-| *i know use this* | *my wife use this* | *i know use this* | *i kwow use this*         | word               | slack        |
-| *but i don't use* |                    | *but i don't use* | *but i don't use*         | excel              | discord      |
-|                   |                    |                   |                           | outlook            | sublime text |
-|                   |                    |                   |                           | skype              | typora       |
-|                   |                    |                   |                           | visual studio code | notion       |
-|                   |                    |                   | Programmed obsolescenced  |                    |              |
-|     Ethics        |                    |      Ethics       |         Price             |                    |              |
+| Google            | Amazon             | Facebook          | Apple                      | Microsoft          | Others       |
+| ----------------- | ------------------ | ----------------- | -------------------------- | ------------------ | ------------ |
+| *i know use this* | *my wife use this* | *i know use this* | *i kwow use this*          | word               | slack        |
+| *but i don't use* |                    | *but i don't use* | *but i don't use*          | excel              | discord      |
+|                   |                    |                   |                            | outlook            | sublime text |
+|                   |                    |                   |                            | skype              | typora       |
+|                   |                    |                   |                            | visual studio code | notion       |
+|                   |                    |                   |*Programmed obsolescenced*  |                    |              |
+|     *Ethics*      |                    |     *Ethics*      |        *Price*             |                    |              |
 
 
 
