@@ -61,6 +61,8 @@
 
 📫 damienb.dev@outlook.fr - 
 
- <img src="C:\Users\Damie\Desktop\in.png" style="zoom:50%;" /> [Damien Boitier | LinkedIn](https://www.linkedin.com/in/damienbdev/) 
+ [Damien Boitier | LinkedIn](https://www.linkedin.com/in/damienbdev/) 
+ 
+ db0g#1596
 
 
