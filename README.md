@@ -29,7 +29,7 @@
 
 | Laguages:FrontEnd | Languages:BackEnd | Framework - Libs - CMS | Databases |
 | :---------------: | :---------------: | :--------------------: | :-------: |
-|       Sass        |                   |                        |           |
+|       Sass        |                   |         React          |           |
 
 
 
@@ -44,8 +44,8 @@
 |                   |                    |                   |                           | outlook            | sublime text |
 |                   |                    |                   |                           | skype              | typora       |
 |                   |                    |                   |                           | visual studio code | notion       |
-|                   |                    |                   |  programmed obsolescenc   |                    |              |
-|     Ethics        |                    |      Ethics       |  price                    |                    |              |
+|                   |                    |                   | Programmed obsolescenced  |                    |              |
+|     Ethics        |                    |      Ethics       |         Price             |                    |              |
 
 
 
