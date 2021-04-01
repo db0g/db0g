@@ -4,6 +4,7 @@
 
 ===========================================================================================
 
+
 👋 <u>Description</u>:
 
 *Fort d'une formation intensive en conception et management de projet numérique de 10 mois, et d' une expérience professionnelle riche, je suis à la recherche d'une entreprise et d'un poste de développeur web pour mettre en action mes compétences et qualités humaines.*
@@ -58,6 +59,7 @@
 - événementielle
 - voyage
 - audio visuel
+
 
 
 
