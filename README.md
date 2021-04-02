@@ -20,7 +20,8 @@
 |        HTML        |      Python       |         Django         | PostgreSQL |   Windows   |
 |        CSS         |                   |         Flask          |            |   Ubuntu    |
 |     JavaScript     |                   |       Bootstrap        |            |     OSx     |
-|       Jquery       |                   |       WordPress        |            |             |
+|                    |                   |         Jquery         |            |             |
+|                    |                   |        Wordpress       |            |             |
 
 
 
@@ -30,7 +31,7 @@
 
 | Laguages:FrontEnd | Languages:BackEnd | Framework - Libs - CMS | Databases |
 | :---------------: | :---------------: | :--------------------: | :-------: |
-|       Sass        |                   |         React          |           |
+| js natif (vailla) |     python        |    django api rest     |           |
 
 
 
