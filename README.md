@@ -81,7 +81,7 @@ randonée - escalade - course à pied - photographie -
 
 *Comme vous avez pu remarquer ci dessus, je ne suis pas un grand fan des GAFAM!
 
--Windows 10 sans les app installées par défaut.
+-Windows 10 sans sans compte microsoft.
 -ProtonMail pour la sécurité des mails.
 -Signal de préference, mais WhatsApp car je vais pas me couper du monde.
 -Firefox comme navigateur, et duckduckGo pour le moteur de recherche.
