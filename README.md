@@ -67,9 +67,9 @@ randonée - escalade - course à pied - photographie -
 | Slide             |                    |                   |                            |                    | Protonmail   |
 | Drive             |                    |                   |                            |                    | Turtl        |
 | Chrome            |                    |                   |                            |                    | Joplin       |
-|    *Ethics*       |                    |    *Ethics*       |       *Ethics*             | Powershell         | Terminal     |
+|                   |                    |                   |                            | Powershell         | Terminal     |
 |  *i don't use*    |                    |                   | *Programmed obsolescenced* | Visual Studio Code | Sublime Text |
-|                   |                    |                   |                            |                    | Slack        |
+|    *Ethics*       |                    |     *Ethics*      |         *Ethics*           |                    | Slack        |
 |                   |                    |                   |                            |                    | Discord      |
 |                   |                    |                   |                            |                    | Figma        |
 |                   |                    |                   |                            |                    | MAMP         |
