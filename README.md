@@ -29,9 +29,9 @@
 
 🌱 <u>J'apprend actuellement:</u> 
 
-| Laguages:FrontEnd | Languages:BackEnd | Framework - Libs - CMS | Databases |
-| :---------------: | :---------------: | :--------------------: | :-------: |
-| js natif (vailla) |     python        |    django api rest     |           |
+| Laguages:FrontEnd  | Languages:BackEnd | Framework - Libs - CMS | Databases |
+| :----------------: | :---------------: | :--------------------: | :-------: |
+| js natif (vanilla) |     python        |    django api rest     |           |
 
 
 
