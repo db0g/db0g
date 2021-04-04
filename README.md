@@ -32,6 +32,10 @@
 | Laguages:FrontEnd  | Languages:BackEnd | Framework - Libs - CMS | Databases |
 | :----------------: | :---------------: | :--------------------: | :-------: |
 | js natif (vanilla) |     python        |    django api rest     |           |
+|                    |                   |         Sass           |           |
+|                    |                   |                        |           |
+|                    |                   |                        |           |
+
 
 
 
