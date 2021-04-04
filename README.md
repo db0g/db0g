@@ -21,7 +21,7 @@
 |        CSS         |                   |         Flask          |            |   Ubuntu    |
 |     JavaScript     |                   |       Bootstrap        |            |     OSx     |
 |                    |                   |         Jquery         |            |             |
-|                    |                   |        Wordpress       |            |             |
+|                    |                   |  Wordpress[elementor]  |            |             |
 
 
 
@@ -37,21 +37,6 @@
 
 
 
-💿 <u>Autres:</u>
-
-| Google            | Amazon             | Facebook          | Apple                      | Microsoft          | Others       |
-| ----------------- | ------------------ | ----------------- | -------------------------- | ------------------ | ------------ |
-| *i know use this* | *my wife use this* | *i know use this* | *i kwow use this*          | word               | slack        |
-| *but i don't use* |                    | *but i don't use* | *but i don't use*          | excel              | discord      |
-|                   |                    |                   |                            | outlook            | sublime text |
-|                   |                    |                   |                            | skype              | typora       |
-|                   |                    |                   |                            | visual studio code | notion       |
-|                   |                    |                   |*Programmed obsolescenced*  |                    |              |
-|     *Ethics*      |                    |     *Ethics*      |        *Price*             |                    |              |
-
-
-
-
 💞️ <u>Je cherche à collaborer sur des projets axés:</u> 
 
 - sport 
@@ -63,16 +48,55 @@
 
 
 
+
+❤ <u>Hobbies:</u>
+
+randonée - escalade - course à pied - photographie -
+
+
+
+
+
+💿 <u>Autres:</u>
+
+| Google Suite      | Amazon             | Facebook          | Apple                      | Microsoft          | Others       |
+| ----------------- | ------------------ | ----------------- | -------------------------- | ------------------ | ------------ |
+| Gmail             | *my wife use this* | WhatsApp          | Mac OSX                    | Windows 10         | Ubuntu       |
+| Doc               |                    |                   | Terminal                   |                    |              |
+| Sheet             |                    |                   | Brew                       | Office             | Libre Office |
+| Slide             |                    |                   |                            |                    | Protonmail   |
+| Drive             |                    |                   |                            |                    | Turtl        |
+| Chrome            |                    |                   |                            |                    | Joplin       |
+|    *Ethics*       |                    |    *Ethics*       |       *Ethics*             | Powershell         | Terminal     |
+|  *i don't use*    |                    |                   | *Programmed obsolescenced* | Visual Studio Code | Sublime Text |
+|                   |                    |                   |                            |                    | Slack        |
+|                   |                    |                   |                            |                    | Discord      |
+|                   |                    |                   |                            |                    | Figma        |
+|                   |                    |                   |                            |                    | MAMP         |
+
+
+*Comme vous avez pu remarquer ci dessus, je ne suis pas un grand fan des GAFAM!
+
+-Windows 10 sans les app installées par défaut.
+-ProtonMail pour la sécurité des mails.
+-Signal de préference, mais WhatsApp car je vais pas me couper du monde.
+-Firefox comme navigateur, et duckduckGo pour le moteur de recherche.
+-Visual Studio Code pour avoir le term sous la main et live Server pour travail le frontEnd
+-Joplin pour faire des MD plus facilement
+-Turtl l'alternative Evernote
+
+
+
+
 💬<u>Contact:</u>
 
-📫 damienb.dev@outlook.fr - 
+📫 damienb.dev@protonmail.com 
 
  [Damien Boitier | LinkedIn](https://www.linkedin.com/in/damienbdev/) 
  
  Discord => db0g#1596
 
 
-❤ <u>Hobbies:</u>
 
-randonée - escalade - course à pied - photographie -
+
 
