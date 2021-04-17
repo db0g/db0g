@@ -1,6 +1,6 @@
 
 
-**DAMIEN BOITIER**,  Auto-Entrepreneur(developer fullstack junior), 35ans, Paris, 
+**DAMIEN BOITIER**,  Auto-Entrepreneur(developer web fullstack junior), 35ans, Paris, 
 
 ===========================================================================================
 
@@ -25,19 +25,14 @@
 
 
 
-
-
 🌱 <u>J'apprend actuellement:</u> 
 
 | Laguages:FrontEnd  | Languages:BackEnd | Framework - Libs - CMS | Databases |
 | :----------------: | :---------------: | :--------------------: | :-------: |
-|    JavaScript      |                   |        Vue.js          |           |
-|      Scss          |                   |         Sass           |           |
-|                    |      Python       |    Django API.REST     |           |
+|                    |                   |         React          |           |
+|                    |                   |         Sass           |           |
+|                    |                   |    Django API.REST     |           |
 |                    |                   |                        |           |
-
-
-
 
 
 
@@ -51,44 +46,9 @@
 
 
 
-
-
 ❤ <u>Hobbies:</u>
 
 randonée - escalade - course à pied - photographie -
-
-
-
-
-
-💿 <u>Autres:</u>
-
-| Google Suite      | Amazon             | Facebook          | Apple                      | Microsoft          | Others       |
-| ----------------- | ------------------ | ----------------- | -------------------------- | ------------------ | ------------ |
-| Gmail             | *my wife use this* | WhatsApp          | Mac OSX                    | Windows 10         | Ubuntu       |
-| Doc               |                    |                   | Terminal                   |                    |              |
-| Sheet             |                    |                   | Brew                       | Office             | Libre Office |
-| Slide             |                    |                   |                            |                    | Protonmail   |
-| Drive             |                    |                   |                            |                    | Turtl        |
-| Chrome            |                    |                   |                            |                    | Joplin       |
-|                   |                    |                   |                            | Powershell         | Terminal     |
-|  *i don't use*    |                    |                   | *Programmed obsolescenced* | Visual Studio Code | Sublime Text |
-|    *Ethics*       |                    |     *Ethics*      |         *Ethics*           |                    | Slack        |
-|                   |                    |                   |                            |                    | Discord      |
-|                   |                    |                   |                            |                    | Figma        |
-|                   |                    |                   |                            |                    | MAMP         |
-
-
-*Comme vous avez pu remarquer ci dessus, je ne suis pas un grand fan des GAFAM!
-
--Windows 10 sans sans compte microsoft.
--ProtonMail pour la sécurité des mails.
--Signal de préference, mais WhatsApp car je vais pas me couper du monde.
--Firefox comme navigateur, et duckduckGo pour le moteur de recherche.
--Visual Studio Code pour avoir le term sous la main et live Server pour travail le frontEnd
--Joplin pour faire des MD plus facilement
--Turtl l'alternative Evernote
-
 
 
 
