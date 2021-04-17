@@ -58,7 +58,6 @@ randonée - escalade - course à pied - photographie -
 
  [Damien Boitier | LinkedIn](https://www.linkedin.com/in/damienbdev/) 
  
- Discord => db0g#1596
 
 
 
