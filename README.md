@@ -1,6 +1,6 @@
 
 
-**DAMIEN BOITIER**,  Auto-Entrepreneur(developer web fullstack junior), 35ans, Paris, 
+**DAMIEN BOITIER**, Développeur Web Indépendant, 35ans, Paris, je crée votre site ou page web. 
 
 ===========================================================================================
 
@@ -54,7 +54,7 @@ randonée - escalade - course à pied - photographie -
 
 💬<u>Contact:</u>
 
-📫 damienb.dev@protonmail.com 
+📫 damienb.dev@outlook.fr 
 
  [Damien Boitier | LinkedIn](https://www.linkedin.com/in/damienbdev/) 
  
