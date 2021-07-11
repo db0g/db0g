@@ -54,7 +54,7 @@ randonée - escalade - course à pied - photographie -
 
 💬<u>Contact:</u>
 
-📫 damienb.dev@outlook.fr 
+📫 damienb.dev@gmail.com
 
  [Damien Boitier | LinkedIn](https://www.linkedin.com/in/damienbdev/) 
  
