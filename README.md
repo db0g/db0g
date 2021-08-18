@@ -1,8 +1,8 @@
 
 
-**DAMIEN BOITIER**, Développeur Web Indépendant, 35ans, Paris, je crée votre site ou page web. 
+**DAMIEN BOITIER**, Développeur Web Indépendant, 35ans, Paris, j'aide les entrepreneur à concevoir et développer votre site web. 
 
-===========================================================================================
+================================================================================================================================
 
 
 👋 <u>Description</u>:
@@ -54,7 +54,7 @@ randonée - escalade - course à pied - photographie -
 
 💬<u>Contact:</u>
 
-📫 damienb.dev@gmail.com
+📫 db0g@ik.me
 
  [Damien Boitier | LinkedIn](https://www.linkedin.com/in/damienbdev/) 
  
